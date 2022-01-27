@@ -3,7 +3,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
-Collecting some of the most knolowdged deep learning architectures, implemented by @aladdinpersson and @the-robot
+Collecting some of the most knolowdged deep learning architectures, implemented by ![@aladdinpersson](https://github.com/the-robot) and ![@the-robot](https://github.com/the-robot)
 
 
 ### Architectures
